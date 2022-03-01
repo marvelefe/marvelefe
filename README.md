@@ -1,3 +1,2 @@
-# Hello! :wave: <br> 
-> Software Enginner - All Things Web - Lifelong Learner - Dreamer
+> Software Engineer - All Things Web - Lifelong Learner - Dreamer
  
