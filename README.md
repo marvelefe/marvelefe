@@ -1,2 +1,5 @@
-> Software Engineer - All Things Web - Lifelong Learner - Dreamer
+- [x] Software Engineer
+- [x] All Things Web 
+- [x] Lifelong Learner 
+- [x] Dreamer
  
